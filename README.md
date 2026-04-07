@@ -184,3 +184,4 @@ El token se obtiene al hacer login y se almacena en `localStorage`.
 - Los tokens de sesión son de 80 caracteres hex aleatorios.
 - La sesión expira a las 8 horas por defecto (ajustable en `app.php`).
 - Todas las rutas de API validan autenticación y permisos antes de ejecutar.
+
